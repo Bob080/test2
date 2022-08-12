@@ -1,9 +1,12 @@
 # xccp-hero
 
 ## action
-- 利用 Github action 实现 [重新部署](#重新部署)/[停止](#停止)/[启动](#启动)/[删除](#删除)。
-- 支持 heroku 的区域（us 和 eu）
-- vless or vmess
+# heroku
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bob080/test2/tree/main)
+
+
 
 ## client setup
 
